@@ -45,20 +45,20 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://www.github.com"
+                title="Github"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Github
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="https://codepen.io"
+                title="Codepen"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                Codepen
               </a>
               <Link
                 to={`/rss.xml`}
